@@ -1,0 +1,14 @@
+
+
+body{
+  background-color:blue;
+  text-align: center;
+}
+.back{
+  background-color: darkturquoise;
+  height: 360px;
+  width: 800px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 5px;
+}
